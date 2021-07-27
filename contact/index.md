@@ -21,10 +21,11 @@ group: contact
   <h4>Ré A. Mansbach, Ph.D.</h4>
   Assistant Professor  <br>
   Department of Physics  <br>
+  SP 367-15, Loyola Campus <br>
   Concordia University  <br>
   email: re.mansbach (at) concordia.ca <br>
   tel: 515 451 737 five
-
+  
 </div>
 <!--
 <div class="col-md-4">
@@ -72,7 +73,7 @@ San Francisco, CA 94143
 <!-- Our lab is in on the UCSF Mission Bay campus in Genentech Hall (600 16th St, San Francisco, CA 94158)
  -->
 
-### The Mission Bay Campus can be reached:  
+<!--### The Mission Bay Campus can be reached:  
 * #### by public transportation:
   * **Option 1**: Exit BART at the 16th St Station and wait for the free UCSF Red shuttle that stops directly outside [what was once a Burger King and now has lovely graffiti](https://www.google.com/maps/@37.765092,-122.419164,3a,75y,5.38h,82.64t/data=!3m4!1e1!3m2!1sH_jzIrhuF8wnnEp0duvIEQ!2e0) (this option is only available on weekdays: [UCSF Shuttles](http://www.campuslifeservices.ucsf.edu/transportation/services/shuttles)).
   * **Option 2**: Exit BART at the 16th St Station and take the 55 Muni Bus towards Mission Bay. Exit at 16th and 4th.
@@ -93,10 +94,14 @@ San Francisco, CA 94143
 
 <img class="img-fluid" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
 //-->
-## Land Acknowledgement Statement
+  
+## Territorial Acknowledgement Statement
 
-Under construction
+We would like to begin by acknowledging that our lab at Concordia University is located on unceded Indigenous lands. The Kanien’kehá:ka Nation is recognized as the custodians of the lands and waters on which we gather. Tiohtià:ke/Montréal is historically known as a gathering place for many First Nations. Today, it is home to a diverse population of Indigenous and other peoples. We respect the continued connections with the past, present and future in our ongoing relationships with Indigenous and other peoples within the Montreal community.
 
+Nous aimerions commencer par reconnaître que l'Université Concordia est située en territoire autochtone, lequel n’a jamais été cédé. Nous reconnaissons la nation Kanien'kehá: ka comme gardienne des terres et des eaux sur lesquelles nous nous réunissons aujourd'hui. Tiohtiá:ke / Montréal est historiquement connu comme un lieu de rassemblement pour de nombreuses Premières Nations, et aujourd'hui, une population autochtone diversifiée, ainsi que d'autres peuples, y résident. C’est dans le respect des liens avec le passé, le présent et l'avenir que nous reconnaissons les relations continues entre les Peuples Autochtones et autres personnes de la communauté montréalaise.
+  
+Learn more at Concordia's <a href="https://www.concordia.ca/indigenous/resources/reconnaissance-territoriale.html">Indigenous Directions Website</a>
 <!--
 The Fraser lab recognizes that the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula. As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our full statement [here](/land).
 //-->
