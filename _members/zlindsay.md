@@ -15,5 +15,5 @@ email: l_wright (at) live.concordia.ca #Preferred public email address
 #linkedin: username
 github: lindsaywright2
 #orcid: XXXX-XXXX-XXXX-XXXX
-description: "MSc student."
+description: ""
 ---
