@@ -7,7 +7,7 @@ altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: MSc student
 #subsequent:  update once you become an alumnus
 pronouns: She/Her/Hers #personal pronouns
-email: l_wright (at) live.concordia.ca #Preferred public email address
+email: lindsay.wright (at) mail.concordia.ca #Preferred public email address 
 #scholar: XXXXXXXXXXXX #Google Scholar User ID
 #website: https://website.com/
 #UCSF: XXXXXXXX #UCSF Profile ID - Employees only
