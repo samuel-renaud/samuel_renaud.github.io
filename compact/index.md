@@ -21,8 +21,12 @@ Why am I writing a document like this?  Well, I believe very strongly in equity,
 ## <a id="mission">Who Am I</a>
 I'm Ré.  I'm a nonbinary/genderfluid scientist.  I often call myself a physicist who likes to poke my nose into biology and computer science.  I'm generally more comfortable with they/them pronouns.  Please feel free to refer to me by my first name.  I recognize that there is an inherent power imbalance between mentor and mentee, particularly--and often--implicitly in the context of graduate students and advisors, but I would like to mitigate that where possible.  I believe in being a guide, not a dictator.  Having said that, I am the person responsible for lab funding, so my decisions are sometimes going to have to made for the good of the lab.
 <br/>
-<br/>
+
+ 
+https://www.youtube.com/watch?v=71hzqZNAPW4
   
+<br/>
+<br/>
 ## <a id="code">Code of Conduct</a>
   An important concept in fostering an inclusive environment is that of "psychological safety."  What it means is that while you may not always be COMFORTABLE in the environment, you should feel SAFE, including the safety to disagree and the safety to speak up if something is causing you a problem.  This code of conduct is intended to enforce a psychologically safe environment for you, your peers, and me. 
 
