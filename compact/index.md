@@ -19,11 +19,7 @@ Why am I writing a document like this?  Well, I believe very strongly in equity,
 <br/>
 
 ## <a id="mission">Who Am I</a>
-I'm Ré.  I'm a nonbinary/genderfluid scientist.  I often call myself a physicist who likes to poke my nose into biology and computer science.  I'm generally more comfortable with they/them pronouns.  Please feel free to refer to me by my first name.  I recognize that there is an inherent power imbalance between mentor and mentee, particularly--and often--implicitly in the context of graduate students and advisors, but I would like to mitigate that where possible.  I believe in being a guide, not a dictator.  Having said that, I am the person responsible for lab funding, so my decisions are sometimes going to have to made for the good of the lab.
-<br/>
-
- 
-https://www.youtube.com/watch?v=71hzqZNAPW4
+[I'm Ré](https://www.youtube.com/watch?v=71hzqZNAPW4).  I'm a nonbinary/genderfluid scientist.  I often call myself a physicist who likes to poke my nose into biology and computer science.  I'm generally more comfortable with they/them pronouns.  Please feel free to refer to me by my first name.  I recognize that there is an inherent power imbalance between mentor and mentee, particularly--and often--implicitly in the context of graduate students and advisors, but I would like to mitigate that where possible.  I believe in being a guide, not a dictator.  Having said that, I am the person responsible for lab funding, so my decisions are sometimes going to have to made for the good of the lab.
   
 <br/>
 <br/>
