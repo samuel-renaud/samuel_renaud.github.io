@@ -7,7 +7,7 @@ altimage: /static/img/members/rami_pb.jpg #365 x 365 pixels, 72 dpi
 position: BSc student
 #subsequent:  update once you become an alumnus
 pronouns: He/Him/His
-email: ramizem.physics@gmail.com
+email: ramizem.physics (at) gmail.com
 scholar: JACrV38AAAAJ
 #website: N/A
 #UCSF: XXXXXXXX #UCSF Profile ID - Employees only
