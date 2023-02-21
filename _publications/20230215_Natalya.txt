@@ -3,7 +3,7 @@ title: "Inferring Pathways of Oxidative Folding from Prefolding Free Energy Land
 authors: "**Rachael A. Mansbach**, Lara A. Patel, **Natalya A. Watson**, Jessica Z. Kubicek-Sutherland, and S. Gnanakaran."
 journal: 'The Journal of Physical Chemistry'
 pub_date: '2023-02-16'
-image: '/static/img/pub/Watson_2023.png'
+image: '/static/img/pub/2023_Watson.png'
 pdf: 'https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.2c07124'
 links:
 ---
