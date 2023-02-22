@@ -1,6 +1,6 @@
 ---
 title: "Inferring Pathways of Oxidative Folding from Prefolding Free Energy Landscapes of Disulfide-Rich Toxins"
-authors: "**Rachael A. Mansbach**, Lara A. Patel, **Natalya A. Watson**, Jessica Z. Kubicek-Sutherland, and S. Gnanakaran."
+authors: "**R. A. Mansbach**, Lara A. Patel, **Natalya A. Watson**, Jessica Z. Kubicek-Sutherland, and S. Gnanakaran."
 journal: 'The Journal of Physical Chemistry'
 pub_date: '2023-02-16'
 image: '/static/img/pub/2023_Watson.png'
