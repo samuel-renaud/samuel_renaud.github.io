@@ -9,7 +9,7 @@ position: MSc student
 pronouns: She/Her/Hers #personal pronouns
 email: martina.mai (at) concordia.ca #Preferred public email address
 scholar:  #Google Scholar User ID
-website: https://mansbach-lab.github.io
+#website: https://mansbach-lab.github.io
 twitter: 
 linkedin: martina-mai
 github: martymai
