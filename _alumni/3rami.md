@@ -5,7 +5,7 @@ enddate: 2023-04-15
 image: /static/img/members/rami.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/rami_pb.jpg #365 x 365 pixels, 72 dpi
 position: BSc student
-subsequent:  #Maiti Research Group, PhD student, Concordia University https://www.concordia.ca/artsci/physics/research/maiti-research-group.html
+subsequent: PhD student, Champagne & Maiti Research Groups, Concordia University
 pronouns: He/Him/His
 email: ramizem.physics (at) gmail.com
 scholar: JACrV38AAAAJ
