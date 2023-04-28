@@ -1,11 +1,11 @@
 ---
 name: Samuel Renaud
 startdate: 2020-08-01
-enddate: 
+enddate: 2023-05-02
 image: /static/img/members/sam.jpg #365 x 365 pixels, 72 dpi
 altimage: picture of sam #365 x 365 pixels, 72 dpi
 position: MSc student
-#subsequent:  update once you become an alumnus
+subsequent:  
 pronouns: He/His/Him #personal pronouns
 email: samuel.renaud (at) concordia.ca #Preferred public email address
 scholar:  #Google Scholar User ID
