@@ -9,7 +9,7 @@ position: PhD student
 pronouns: She/Her/Hers #personal pronouns
 email: natalya.watson (at) concordia.ca #Preferred public email address
 scholar:  #Google Scholar User ID
-website: https://mansbach-lab.github.io
+#website: https://mansbach-lab.github.io
 twitter: _NatalyaWatson_
 linkedin: 
 github: natalyawatson
