@@ -6,7 +6,7 @@ group: openpositions
 
 # Mansbach Lab Open Positions
 
-
+There are currently two open positions in our lab for MSc students with a strong physics and computational background. The most important skills we are looking for are statistical mechanics and machine learning.
 
 
 ## Generative Deep Learning for understanding long COVID
