@@ -15,7 +15,7 @@ We are often in the market for motivated and talented people, even if we do not 
 
 ## Graduate Students
 
-Graduate students at Concordia can apply to the [physics program](https://www.concordia.ca/artsci/physics/programs/graduate.html) but must secure a supervisor themselves. There are currently **open positions** in our lab for Canadian MSc students and Canadian or international PhD students with a strong physics and computational background. The most important skills we are looking for are statistical mechanics and machine learning.
+Graduate students at Concordia can apply to the [physics program](https://www.concordia.ca/artsci/physics/programs/graduate.html) but must secure a supervisor themselves. There are currently [open positions](/openpositions/) in our lab for Canadian MSc students and Canadian or international PhD students with a strong physics and computational background. The most important skills we are looking for are statistical mechanics and machine learning.
 
 ## Postdoctoral Fellows
 
