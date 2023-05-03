@@ -21,14 +21,14 @@
 - name: news
   link: "/news"
   group: news
-
-- name: join
-  link: "/join"
-  group: join
   
 - name: open positions
   link: "/openpositions"
   group: openpositions
+
+- name: join
+  link: "/join"
+  group: join
 
 - name: contact
   link: "/contact"
