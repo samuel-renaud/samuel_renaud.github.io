@@ -1,7 +1,7 @@
 ---
 published: True
 title: Concordia researchers receive $500K from Government of Canada to boost ‘high-risk, high-reward’ studies
-author: Ré Mansbach
+author:
 layout: post
 group: news
 ---
