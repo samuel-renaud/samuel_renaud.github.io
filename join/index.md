@@ -19,11 +19,11 @@ Graduate students at Concordia can apply to the [physics program](https://www.co
 
 ## Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to Ré Mansbach. <!--We set our postdoctoral fellow compensation to the [Stanford rates](https://postdocs.stanford.edu/funding-levels-and-guidelines) **and** encourage candidates to explore applying for extramural fellowships to support their research.
+Inquiries about Postdoctoral positions should be emailed directly to [Ré Mansbach](/contact/). <!--We set our postdoctoral fellow compensation to the [Stanford rates](https://postdocs.stanford.edu/funding-levels-and-guidelines) **and** encourage candidates to explore applying for extramural fellowships to support their research.
 //-->
 
 ## Other Visitors
 
-We may sometimes take research assistants of various levels. Compensation is set by [TRAC (Teaching and Research Assistants at Concordia](https://trac-union.ca/pay-rates/). If you're interested, please contact me.
+We may sometimes take research assistants of various levels. Compensation is set by [TRAC (Teaching and Research Assistants at Concordia](https://trac-union.ca/pay-rates/). If you're interested, please [contact me](/contact/).
 
 <!--In the past, our lab has enjoyed having foreign exchange students, interns, sabbatical visitors from academia and industry, and post-bac technicians in the lab.  We are open to other arrangements as well. As we expect people to be fairly compensated for their work by their home institution or by us, we do not have volunteer positions available. Note: we take high school students exclusively through the [UCSF SEP program](http://sep.ucsf.edu/).//-->
