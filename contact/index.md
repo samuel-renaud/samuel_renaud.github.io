@@ -12,7 +12,9 @@ group: contact
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
-  tel: not yet!
+  Department of Physics  <br>
+  SP 365-15, Loyola Campus <br>
+  Concordia University  <br>
 
 </div>
 
