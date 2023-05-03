@@ -25,6 +25,10 @@
 - name: join
   link: "/join"
   group: join
+  
+- name: open positions
+  link: "/openpositions"
+  group: openpositions
 
 - name: contact
   link: "/contact"
