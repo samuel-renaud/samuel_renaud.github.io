@@ -6,12 +6,12 @@ group: openpositions
 
 # Mansbach Lab Open Positions
 
-There are currently two open positions in our lab for MSc or PhD students with a strong physics and computational background. The most important skills we are looking for are statistical mechanics and machine learning.
+There are currently three open positions in our lab for MSc or PhD students with a strong physics and computational background. The most important skills we are looking for are statistical mechanics and machine learning.
 
 <br>
 <br>
 
-## Looking for graduate students interested in generative deep learning for understanding long COVID
+## Looking for graduate students interested in generative deep learning for understanding long COVID <br>
 
 We have one open position in the [Mansbach Lab](https://mansbach-lab.github.io/) for 2024 (January or September). This is part of a unique joint project with collaborators in medical physics, journalism, and history, but the primary supervision would be from Dr. Mansbach. There will be an associated international fee waiver and stipend for highly qualified students (there may still be regional fees associated with tuition)<sup>1 <br>
 
@@ -28,8 +28,9 @@ If you are interested in applying or finding out more, please email me at [re.ma
 
 
 <br>
+<br>
 
-## Looking for graduate students interested in computational modeling of photosynthetic pigment-protein complexes.
+## Looking for graduate students interested in computational modeling of photosynthetic pigment-protein complexes. <br>
 
 We have one open position for a co-supervised position between the [Zazubovits](https://www.concordia.ca/artsci/physics/research/zazubovits-research-group.html) and [Mansbach](https://mansbach-lab.github.io/) Labs in the Physics Department at Concordia University for 2024. There will be an associated international fee waiver and stipend for highly qualified students (there may still be regional fees associated with tuition).<sup>2 <br>
 
@@ -48,9 +49,10 @@ If you are interested in applying or finding out more, please email us at [re.ma
   
 
  <br>
+ <br> 
 
 
-## Looking for graduate students interested in explainable AI for antibiotic design
+## Looking for graduate students interested in explainable AI for antibiotic design <br>
 
   
 We have one opening for a co-supervised position between the [Xiao](http://www.healthx-lab.ca/) and [Mansbach](https://mansbach-lab.github.io/) Labs in the Physics Department at Concordia University for 2024. There will be an associated stipend for highly qualified students (there may still be regional fees associated with tuition). <sup>3 <br>
