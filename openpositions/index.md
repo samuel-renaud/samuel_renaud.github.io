@@ -45,6 +45,27 @@ If you are interested in applying or finding out more, please email us at [re.ma
 <sup>2 : Note for students unfamiliar with the Canadian graduate school system: generally, you need a MSc to advance to the PhD, although fast-tracking is possible if we can make a strong case for it. I’m happy to take someone for a MSc and commit to sponsoring them on through the PhD; I’m also happy to take students who solely want a MSc. And I will take MSc students looking to move onto the PhD directly.
 
 
+  
+
+ <br>
 
 
+## Looking for graduate students interested in explainable AI for antibiotic design
+
+  
+We have one opening for a co-supervised position between the [Xiao](http://www.healthx-lab.ca/) and [Mansbach](https://mansbach-lab.github.io/) Labs in the Physics Department at Concordia University for 2024. There will be an associated stipend for highly qualified students (there may still be regional fees associated with tuition). <sup>3 <br>
+
+
+**Scientific Background**: At a time when rising antimicrobial resistance is spurring the search for novel antibiotic alternatives, deep learning is becoming a force to be reckoned with in the area of biomolecular design. One major downside to many deep learning algorithms, especially generative ones for design, is their lack of explicability. It is unwise to use an algorithm without understanding its reasoning, especially for something that may eventually have applicability to human health. We are therefore looking for a student interested in developing and using techniques from explainable artificial intelligence to help design and understand a pipeline for design of novel antibiotic molecules, either small molecules or antimicrobial peptides. <br>
+  
+
+**Desired Qualifications**: We are looking for a highly motivated graduate student candidate interested in theoretical and computational biophysics, with a focus on generative deep learning and explainable AI techniques.  Physics or Computer Science BA or BS is preferred (or MSc), but we would also welcome biophysics, biotechnology or related fields if the match is good. Must have strong coding skills and preferably prior experience with deep learning, and practice with Pytorch or Python is a plus. <br>
+  
+
+_We are committed to cultivating an **inclusive, diverse and collaborative** lab environment.  We encourage members of traditionally underrepresented groups in STEM to contact us_. <br>
+If you are interested in applying or finding out more, please email us at [re.mansbach@concordia.ca](mailto:re.mansbach@concordia.ca) or [yiming.xiao@concordia.ca](mailto:yiming.xiao@concordia.ca) . <br>
+
+  
+<sup>3 : Note for students unfamiliar with the Canadian graduate school system: generally, you need a MSc to advance to the PhD, although fast-tracking is possible if we can make a strong case for it. I’m happy to take someone for a MSc and commit to sponsoring them on through the PhD; I’m also happy to take students who solely want a MSc. And I will take MSc students looking to move onto the PhD directly.  
+  
 
