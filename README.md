@@ -1,4 +1,4 @@
-# mansbach-lab.github.io
+# samuel_renaud.github.io
 =====================
 
 Technologies this website uses:  
