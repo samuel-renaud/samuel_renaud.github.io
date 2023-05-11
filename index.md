@@ -1,5 +1,5 @@
 ---
-title: Mansbach Lab 
+title: Samuel Renaud
 layout: home
 group: home
 ---
