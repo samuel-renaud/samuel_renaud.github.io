@@ -2,10 +2,6 @@
   link: "/"
   group: home
 
-- name: research
-  link: "/research"
-  group: research
-
 - name: publications
   link: "/publications"
   group: publications
