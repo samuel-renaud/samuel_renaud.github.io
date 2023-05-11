@@ -1,4 +1,4 @@
-# samuel_renaud.github.io
+# samuel-renaud.github.io
 =====================
 
 Technologies this website uses:  
