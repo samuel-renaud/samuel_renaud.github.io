@@ -1,5 +1,5 @@
-name: "Mansbach Lab"
-description: "This is the official web page for the Mansbach Lab at Concordia University."
+name: "Sam's Website"
+description: "This is Samuel Renaud's Website"
 
 url: "https://samuel-renaud.github.io/site"
 
@@ -26,16 +26,4 @@ exclude:
 
 collections:
         affiliates:
-                output: true
-        members:
-                output: true
-        publications:
-                output: true
-        reviews:
-                output: true
-        alumni:
-                output: true
-        sep:
-                output: true
-        visitors:
                 output: true
