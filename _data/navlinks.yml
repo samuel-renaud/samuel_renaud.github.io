@@ -3,6 +3,6 @@
   group: home
   
 - name: contact
-  link: "/contact"
+  link: "/site/contact"
   group: contact
 
