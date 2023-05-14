@@ -1,27 +1,7 @@
 - name: home
   link: "/"
   group: home
-
-- name: publications
-  link: "/publications"
-  group: publications
-
-- name: members
-  link: "/members"
-  group: members
-
-- name: philosophy
-  link: "/compact"
-  group: compact
-
-- name: news
-  link: "/news"
-  group: news
   
-- name: open positions
-  link: "/openpositions"
-  group: openpositions
-
 - name: contact
   link: "/contact"
   group: contact
