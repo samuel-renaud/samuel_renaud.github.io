@@ -1,9 +1,0 @@
----
-title: "Network analysis uncovers the communication structure of SARS-CoV-2 spike protein identifying sites for immunogen design"
-authors: "Pedro D. Manrique, Srirupa Chakraborty, Rory Henderson, Robert J. Edwards, **R. A. Mansbach**, Kien Nguyen, Victoria Stalls, Carrie Saunders, Katayoun Mansouri, Priyamvada Acharya, Bette Korber, and S. Gnanakaran. "
-journal: 'iScience'
-pub_date: '2023-01-20'
-image: '/static/img/pub/2023_Mansbach.png'
-pdf: 'https://www-sciencedirect-com.lib-ezproxy.concordia.ca/science/article/pii/S2589004222021289/pdfft?md5=1a5dfc770c8d1fdfaab663c6ee644dcb&pid=1-s2.0-S2589004222021289-main.pdf'
-links:
----

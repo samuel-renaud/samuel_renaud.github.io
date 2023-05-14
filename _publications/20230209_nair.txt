@@ -1,9 +1,0 @@
----
-title: "The fight against antibiotic resistance is growing more urgent, but artificial intelligence can help"
-authors: "**Vrinda Nair** and **R. A. Mansbach.** "
-journal: 'The Conversation'
-pub_date: '2023-02-09'
-image: '/static/img/pub/2023_Nair.png'
-pdf: 'https://theconversation.com/the-fight-against-antibiotic-resistance-is-growing-more-urgent-but-artificial-intelligence-can-help-198709'
-links:
----

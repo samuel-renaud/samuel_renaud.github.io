@@ -1,9 +1,0 @@
----
-title: "Latent Spaces for Antimicrobial Peptide Design"
-authors: "**Samuel Renaud** and **R. A. Mansbach**. "
-journal: 'Digital Discovery'
-pub_date: '2023-02-16'
-image: '/static/img/pub/2023_Renaud.jpeg'
-pdf: 'https://pubs.rsc.org/en/content/articlepdf/2023/dd/d2dd00091a'
-links:
----
