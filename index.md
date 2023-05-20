@@ -8,7 +8,6 @@ group: home
 
 <body>
   <canvas id="myCanvas"></canvas>
-  
   <script src="script.js"></script>
 </body>
   
