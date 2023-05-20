@@ -1,91 +1,77 @@
 {% include header.html %}
 
 <head>
-<!--   <style>
-    #window {
+  <style>
+    /* Optional CSS styles */
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    .blue {
+      width: 200px;
+      height: 200px;
+      background-color: blue;
       position: absolute;
       top: 50%;
       left: 50%;
-      width: 400px;
-      height: 300px;
-      border: 2px solid #000;
       transform: translate(-50%, -50%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-size: 18px;
+      font-weight: bold;
     }
-  </style> -->
-  
+    .red {
+      width: 200px;
+      height: 200px;
+      position: absolute;
+      top: 40%;
+      left: 45%;
+      transform: translate(-40%, -40%);
+      background-color: red;
+      animation: myAnimation 1s infinite;
+      align-items: center;
+    }
 
-  <title>Home Page</title>
-  <style>
-    canvas {
-      display: block;
+    
+    @keyframes myAnimation {
+      0% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.2);
+      }
+      100% {
+        transform: scale(1);
+      }
     }
   </style>
+
+  <title>Home Page</title>
+ 
 </head>
 <body>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() 
-        {
-          var canvas = document.getElementById("myCanvas");
-          var ctx = canvas.getContext("2d");
+  <div id="blue-box" class="blue">
+    <span class="text-content">Hover over me!</span>
+  </div>
 
-          // Set canvas size
-          canvas.width = window.innerWidth;
-          canvas.height = window.innerHeight;
+  <script>
+    // Get the blue box element
+    var blueBox = document.getElementById("blue-box");
 
-          // Box dimensions and position
-          var boxWidth = 200;
-          var boxHeight = 200;
-          var boxX = (canvas.width - boxWidth) / 2;
-          var boxY = (canvas.height - boxHeight) / 2;
+    // Add event listeners for "mouseenter" and "mouseleave" events
+    blueBox.addEventListener("mouseenter", function() {
+      // Add the "red" class to the blue box
+      blueBox.classList.add("red");
+    });
 
-          // Mouse position variables
-          var mouseX = 0;
-          var mouseY = 0;
-
-          // Listen for mouse move event
-          document.addEventListener("mousemove", function(e) 
-          {
-            mouseX = e.clientX;
-            mouseY = e.clientY;
-          });
-
-          function draw() 
-          {
-            // Clear canvas
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-            ctx.fillStyle = "#000";
-            ctx.fillRect(boxX, boxY, boxWidth, boxHeight);
-
-            // Draw trailing effect when mouse is inside the box
-            if (
-              mouseX > boxX &&
-              mouseX < boxX + boxWidth &&
-              mouseY > boxY &&
-              mouseY < boxY + boxHeight
-            ) {
-              var trailSize = 10;
-
-              for (var i = 0; i < trailSize; i++) 
-              {
-                var trailAlpha = 1 - (i / trailSize);
-                var trailX = mouseX - (i * (mouseX - boxX) / trailSize);
-                var trailY = mouseY - (i * (mouseY - boxY) / trailSize);
-
-                ctx.fillStyle = "rgba(255, 0, 0, " + trailAlpha + ")";
-                ctx.fillRect(trailX, trailY, boxWidth, boxHeight);
-              }
-            }
-
-            // Call the draw function again
-            requestAnimationFrame(draw);
-          }
-
-          // Start drawing
-          draw();
-        });
-    </script>
+    blueBox.addEventListener("mouseleave", function() {
+      // Remove the "red" class from the blue box
+      blueBox.classList.remove("red");
+    });
+  </script>
 </body>
-  
 
 
 
