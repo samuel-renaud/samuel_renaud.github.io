@@ -1,76 +1,12 @@
 {% include header.html %}
 
 <head>
-  <style>
-    /* Optional CSS styles */
-    body {
-      margin: 0;
-      padding: 0;
-    }
-    .blue {
-      width: 200px;
-      height: 200px;
-      background-color: blue;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: white;
-      font-size: 18px;
-      font-weight: bold;
-    }
-    .red {
-      width: 200px;
-      height: 200px;
-      position: absolute;
-      top: 40%;
-      left: 42%;
-      transform: translate(-40%, -40%);
-      background-color: red;
-      animation: myAnimation 1s infinite;
-      align-items: center;
-    }
-
-    
-    @keyframes myAnimation {
-      0% {
-        transform: scale(1);
-      }
-      50% {
-        transform: scale(1.2);
-      }
-      100% {
-        transform: scale(1);
-      }
-    }
-  </style>
-
+  
   <title>Home Page</title>
  
 </head>
 <body>
-  <div id="blue-box" class="blue">
-    <span class="text-content">Hover over me!</span>
-  </div>
 
-  <script>
-    // Get the blue box element
-    var blueBox = document.getElementById("blue-box");
-
-    // Add event listeners for "mouseenter" and "mouseleave" events
-    blueBox.addEventListener("mouseenter", function() {
-      // Add the "red" class to the blue box
-      blueBox.classList.add("red");
-    });
-
-    blueBox.addEventListener("mouseleave", function() {
-      // Remove the "red" class from the blue box
-      blueBox.classList.remove("red");
-    });
-  </script>
 </body>
 
 
