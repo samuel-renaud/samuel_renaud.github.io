@@ -8,7 +8,7 @@ group: home
 
 <body>
   <canvas id="myCanvas"></canvas>
-  <script src="script.js"></script>
+  <script src="/static/js/cursor_script.js"></script>
 </body>
   
   
